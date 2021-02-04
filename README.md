@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 10</b>
+  <p>Completed the Lights Out game code along. Definitely struggled to implement some functionality before watching the solution. Next onto Forms.</p>
+
 <b>Day 8-9</b>
   <p>Started back on the Moder React Bootcamp. Learned some about events from <em>onClick()</em> and completed some updates to a Hangman game. Onto a cooler game tomorrow!</p>
 
