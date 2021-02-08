@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 12</b>
+  <p>Completed most of a todo list project. Was able to code most of it without watching the code along video. Feeling good today!</p>
+
 <b>Day 11</b>
   <p>Learned about forms in React and completed a code along exercise. Learning these React state patterns with smart parent components and dumb child components.</p>
 
