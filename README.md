@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 13</b>
+  <p>Finished the todo list project. Getting a hang of React basic design patterns using components, state, and props.</p>
+
 <b>Day 12</b>
   <p>Completed most of a todo list project. Was able to code most of it without watching the code along video. Feeling good today!</p>
 
