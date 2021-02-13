@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 14</b>
+  <p>Completed part of the Yahtzee code along. Did my best to implement the code myself before watching the solution, but really struggled on some it. Although, it wasn't so much the React I was struggling with, but Javascript array functions and classes.</p>
+
 <b>Day 13</b>
   <p>Finished the todo list project. Getting a hang of React basic design patterns using components, state, and props.</p>
 
