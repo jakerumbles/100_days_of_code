@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 15</b>
+  <p>Finished Yahtzee code along. Then started learning about React lifecycle methods. Also completed an exercise creating a deck of cards by pulling from a card deck API. It was a productive Saturday!</p>
+
 <b>Day 14</b>
   <p>Completed part of the Yahtzee code along. Did my best to implement the code myself before watching the solution, but really struggled on some it. Although, it wasn't so much the React I was struggling with, but Javascript array functions and classes.</p>
 
