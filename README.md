@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 16</b>
+  <p>Completed the Dad Jokes code along where I continued to practice pulling data from API's and using componentDidMount(). Also learned how to save state in the browser so data stays the same after a refresh.</p>
+
 <b>Day 15</b>
   <p>Finished Yahtzee code along. Then started learning about React lifecycle methods. Also completed an exercise creating a deck of cards by pulling from a card deck API. It was a productive Saturday!</p>
 
