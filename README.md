@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 17</b>
+  <p>Started learning about React Router and completed the first exercise, a simple page with a few components to route to from the home page plus a navbar.</p>
+
 <b>Day 16</b>
   <p>Completed the Dad Jokes code along where I continued to practice pulling data from API's and using componentDidMount(). Also learned how to save state in the browser so data stays the same after a refresh.</p>
 
