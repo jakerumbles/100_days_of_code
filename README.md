@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 18</b>
+  <p>Started the final major project for my React course. It's a color picker website. Going well so far. Lots more functionality to be added. This is gonna take a number of days to finish.</p>
+
 <b>Day 17</b>
   <p>Started learning about React Router and completed the first exercise, a simple page with a few components to route to from the home page plus a navbar.</p>
 
