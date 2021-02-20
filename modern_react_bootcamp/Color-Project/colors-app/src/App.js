@@ -4,8 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <Palette {...seedColors[4]}/>
+    <div className="">
+      <Palette {...seedColors[6]}/>
     </div>
   );
 }
