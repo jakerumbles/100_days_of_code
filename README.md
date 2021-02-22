@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 19</b>
+  <p>Didn't really code for an hour today, but I did a small addition to the color picker website. I used Material UI and added selector for which type of color value to copy when the color is clicked on.</p>
+
 <b>Day 18</b>
   <p>Started the final major project for my React course. It's a color picker website. Going well so far. Lots more functionality to be added. This is gonna take a number of days to finish.</p>
 
