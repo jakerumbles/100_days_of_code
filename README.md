@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 20</b>
+  <p>Completed more code-along videos on the color picker project. It's now the biggest react project I've worked on.</p>
+
 <b>Day 19</b>
   <p>Didn't really code for an hour today, but I did a small addition to the color picker website. I used Material UI and added selector for which type of color value to copy when the color is clicked on.</p>
 
