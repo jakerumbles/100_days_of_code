@@ -1,5 +1,8 @@
 # 100 Days of Code
 
+<b>Day 21</b>
+  <p>Took a week off....woops. Started back with some more work on the color project. Excited to finish this so I can get on to React hooks and server-side rendering!</p>
+
 <b>Day 20</b>
   <p>Completed more code-along videos on the color picker project. It's now the biggest react project I've worked on.</p>
 
